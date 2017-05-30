@@ -1,0 +1,12 @@
+﻿command.timberjack.aliases=Aliases: %s
+command.timberjack.help=Digite '%s' para ajuda.
+command.timberjack.list=Subcomandos disponíveis:
+command.timberjack.permlevel=Nível de permissão: %s
+command.timberjack.noperms=Você não tem permissão para usar este comando
+
+command.timberjack.timberjack.help=Comandos do Timberjack
+command.timberjack.timberjack.format=Formato: /%s <subcomando>
+
+command.timberjack.timberjack.status.desc=- %s : Status Printout
+command.timberjack.timberjack.status.help=Exibe o status do Felling Manager deste mundo
+command.timberjack.timberjack.status.format=Formato: /%s
