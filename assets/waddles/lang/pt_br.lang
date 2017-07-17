@@ -1,0 +1,8 @@
+#Entity
+entity.waddles:adelie_penguin.name=Pinguim-de-adélia
+
+#Subtitles
+waddles:subtitles.adelie.ambient=Adélie Penguin squawks
+waddles:subtitles.adelie.baby.ambient=Adélie Penguin Baby squeaks
+waddles:subtitles.adelie.death=Um pinguim-de-adélia morreu
+waddles:subtitles.adelie.hurt=Um pinguim-de-adélia foi ferido

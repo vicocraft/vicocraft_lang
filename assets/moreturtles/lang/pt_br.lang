@@ -1,0 +1,26 @@
+itemGroup.MoreTurtles=More Turtles
+
+moreturtles.version.notify=[MoreTurtles] Uma nova versão (%s) está disponível!
+
+item.mt_extended_items.extension_frame.name=Extension Frame
+item.mt_extended_items.bucket.name=Extended Bucket
+item.mt_extended_items.shears.name=Extended Shears
+item.mt_extended_items.wheat.name=Extended Wheat
+item.mt_extended_items.bowl.name=Extended Bowl
+item.mt_extended_items.fishing_rod.name=Extended Fishing Rod
+item.mt_extended_items.bow.name=Extended Bow
+item.mt_extended_items.tofu_stick.name=Extended Tofu Stick
+item.mt_extended_items.bamboo.name=Extended Bamboo
+item.mt_extended_items.sugar.name=Extended Sugar
+
+tile.mt_extended_blocks.extension_cube.name=Extension Cube
+tile.mt_extended_blocks.enchanting_table.name=Extended Enchanting Table
+tile.mt_extended_blocks.enchanting_table_fortune.name=Extended -FORTUNE-
+tile.mt_extended_blocks.enchanting_table_silk.name=Extended -SILK TOUCH-
+tile.mt_extended_blocks.enchanting_table_looting.name=Extended -LOOTING-
+tile.mt_extended_blocks.enchanting_table_luck.name=Extended -LUCK OF THE SEA-
+tile.mt_extended_blocks.daylight_detector.name=Extended Daylight Sensor
+tile.mt_extended_blocks.grass.name=Extended Grass
+tile.mt_extended_blocks.end_stone.name=Extended End Stone
+tile.mt_extended_blocks.dispenser.name=Extended Dispenser
+tile.mt_extended_blocks.danmaku.name=Extended Danmaku Crafting Table

@@ -1,0 +1,10 @@
+itemGroup.WakingChunks=Waking Chunks
+
+wakingchunks.version.notify=[WakingChunks] Uma nova versão (%s) está disponível!
+
+tile.chunk_awaker.0.name=Chunk Awaker : Nível I
+tile.chunk_awaker.1.name=Chunk Awaker : Nível II
+tile.chunk_awaker.2.name=Chunk Awaker : Nível III
+tile.chunk_awaker.3.name=Chunk Awaker : Nível I [OFF]
+tile.chunk_awaker.4.name=Chunk Awaker : Nível II [OFF]
+tile.chunk_awaker.5.name=Chunk Awaker : Nível III [OFF]
