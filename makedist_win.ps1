@@ -1,2 +1,3 @@
-rm .\dist\vicocraft_lang.zip -ea ig
-Compress-Archive -Path .\resourcepacks\vicocraft_lang\* -DestinationPath .\dist\vicocraft_lang.zip
+Remove-Item .\dist -recurse
+New-Item -ItemType Directory -Force -Path .\dist
+Compress-Archive -Path .\src\* -DestinationPath .\dist\vicocraft_lang.zip
