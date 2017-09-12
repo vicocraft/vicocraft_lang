@@ -1,0 +1,27 @@
+itemGroup.duckcraft=DuckCraft
+
+item.duckcraft.duckeggitem.name=Ovo de Pato
+item.duckcraft.duckfeatheritem.name=Pena de Pato
+item.duckcraft.rawduckitem.name=Pato Cru
+item.duckcraft.ducksoupitem.name=Canja de Pato
+item.duckcraft.cookedduckitem.name=Pato Assado
+item.duckcraft.duckpotpieitem.name=Duck Pot Pie
+item.duckcraft.duckbwbsitem.name=Duck Breast with Berry Sauce
+item.duckcraft.ducktacoitem.name=Duck Taco
+item.duckcraft.warmducksaladitem.name=Warm Duck Salad
+item.duckcraft.duckclubsandwichitem.name=Duck Club Sandwich
+item.duckcraft.duckbagitem.name=Duck Biscuits and Gravy
+item.duckcraft.rdlapitem.name=Pato Assado com Batatas
+item.duckcraft.duckarrowitem.name=Flecha de Pena de Pato
+item.duckcraft.duckjerkyitem.name=Duck Jerky
+
+tile.duckcraft.rawduckblock.name=Bloco de Pato Cru
+tile.duckcraft.cookedduckblock.name=Bloco de Pato Assado
+
+material.duckfeather.name=Pena de Pato
+
+entity.EntityDuck.name=Pato
+
+tooltip.damage=Dano
+tooltip.debuff=Debuffs
+tooltip.holdshift=Shift para mais informações
